@@ -1,0 +1,24 @@
+[submodule "Drivers/CMSIS/Device/ST/STM32C0xx"]
+	path = Drivers/CMSIS/Device/ST/STM32C0xx
+	url = https://github.com/STMicroelectronics/cmsis_device_c0.git
+	branch = main
+[submodule "Drivers/BSP/Components/Common"]
+	path = Drivers/BSP/Components/Common
+	url = https://github.com/STMicroelectronics/stm32-bsp-common.git
+	branch = main
+[submodule "Middlewares/ST/STM32_USB_Device_Library"]
+	path = Middlewares/ST/STM32_USB_Device_Library
+	url = https://github.com/STMicroelectronics/stm32_mw_usb_device.git
+	branch = master
+[submodule "Middlewares/ST/STM32_USB_Host_Library"]
+	path = Middlewares/ST/STM32_USB_Host_Library
+	url = https://github.com/STMicroelectronics/stm32_mw_usb_host.git
+	branch = master
+[submodule "Drivers/STM32C0xx_HAL_Driver"]
+	path = Drivers/STM32C0xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32c0xx_hal_driver.git
+	branch = main
+[submodule "Middlewares/Third_Party/FatFs"]
+	path = Middlewares/Third_Party/FatFs
+	url = https://github.com/STMicroelectronics/stm32_mw_fatfs.git
+	branch = master
